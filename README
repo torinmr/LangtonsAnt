@@ -1,0 +1,8 @@
+This directory contains a Java implementation of a generalized Langton's Ant, where the squares of the board can have an arbitrary number of states, and a rule for the ant consists of a sequence or 'R's and 'L's. For more detail, see Wikipedia.
+
+To compile: javac LangtonsAnt.java
+
+To run: java LangtonsAnt
+
+This program uses Sedgewick and Wayne's standard libraries, used in COS 126 at Princeton University. These libraries are available at http://introcs.cs.princeton.edu/java/stdlib/
+
